@@ -1,0 +1,163 @@
+[
+    {
+        "year": "2019",
+        "class_name": "专利申请代理状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2019/d/d1.html",
+        "table_title": "d1",
+        "reason": "index 0 is out of bounds for axis 0 with size 0"
+    },
+    {
+        "year": "2019",
+        "class_name": "专利申请代理状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2019/d/d2.html",
+        "table_title": "d2",
+        "reason": "index 0 is out of bounds for axis 0 with size 0"
+    },
+    {
+        "year": "2019",
+        "class_name": "专利申请代理状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2019/d/d3.html",
+        "table_title": "d3",
+        "reason": "index 0 is out of bounds for axis 0 with size 0"
+    },
+    {
+        "year": "2019",
+        "class_name": "专利申请代理状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2019/d/d4.html",
+        "table_title": "d4",
+        "reason": "index 0 is out of bounds for axis 0 with size 0"
+    },
+    {
+        "year": "2019",
+        "class_name": "专利申请、授权按IPC分类分布状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2019/e/e1.html",
+        "table_title": "e1",
+        "reason": "index 0 is out of bounds for axis 0 with size 0"
+    },
+    {
+        "year": "2019",
+        "class_name": "专利申请、授权按IPC分类分布状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2019/e/e2.html",
+        "table_title": "e2",
+        "reason": "index 0 is out of bounds for axis 0 with size 0"
+    },
+    {
+        "year": "2019",
+        "class_name": "专利申请、授权按IPC分类分布状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2019/e/e3.html",
+        "table_title": "e3",
+        "reason": "index 0 is out of bounds for axis 0 with size 0"
+    },
+    {
+        "year": "2019",
+        "class_name": "专利申请、授权按IPC分类分布状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2019/e/e4.html",
+        "table_title": "e4",
+        "reason": "index 0 is out of bounds for axis 0 with size 0"
+    },
+    {
+        "year": "2019",
+        "class_name": "专利申请、授权按IPC分类分布状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2019/e/e5.html",
+        "table_title": "e5",
+        "reason": "index 0 is out of bounds for axis 0 with size 0"
+    },
+    {
+        "year": "2019",
+        "class_name": "专利申请、授权按IPC分类分布状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2019/e/e6.html",
+        "table_title": "e6",
+        "reason": "index 0 is out of bounds for axis 0 with size 0"
+    },
+    {
+        "year": "2019",
+        "class_name": "专利申请、授权按IPC分类分布状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2019/e/e7.html",
+        "table_title": "e7",
+        "reason": "index 0 is out of bounds for axis 0 with size 0"
+    },
+    {
+        "year": "2019",
+        "class_name": "专利申请、授权按IPC分类分布状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2019/e/e8.html",
+        "table_title": "e8",
+        "reason": "index 0 is out of bounds for axis 0 with size 0"
+    },
+    {
+        "year": "2019",
+        "class_name": "商标申请、注册及有效注册状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2019/h/h1.html",
+        "table_title": "h1",
+        "reason": "index 0 is out of bounds for axis 0 with size 0"
+    },
+    {
+        "year": "2019",
+        "class_name": "商标申请、注册及有效注册状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2019/h/h2.html",
+        "table_title": "h2",
+        "reason": "index 0 is out of bounds for axis 0 with size 0"
+    },
+    {
+        "year": "2019",
+        "class_name": "商标申请、注册及有效注册状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2019/h/h3.html",
+        "table_title": "h3",
+        "reason": "index 0 is out of bounds for axis 0 with size 0"
+    },
+    {
+        "year": "2020",
+        "class_name": "专利申请、授权按IPC分类分布状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2020/e/e1.html",
+        "table_title": "e1",
+        "reason": "setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (2,) + inhomogeneous part."
+    },
+    {
+        "year": "2020",
+        "class_name": "专利申请、授权按IPC分类分布状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2020/e/e2.html",
+        "table_title": "e2",
+        "reason": "setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (2,) + inhomogeneous part."
+    },
+    {
+        "year": "2021",
+        "class_name": "专利申请、授权按IPC分类分布状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2021/e/e1.html",
+        "table_title": "e1",
+        "reason": "setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (2,) + inhomogeneous part."
+    },
+    {
+        "year": "2021",
+        "class_name": "专利申请、授权按IPC分类分布状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2021/e/e2.html",
+        "table_title": "e2",
+        "reason": "setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (2,) + inhomogeneous part."
+    },
+    {
+        "year": "2022",
+        "class_name": "专利申请、授权按IPC分类分布状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2022/e/e1.html",
+        "table_title": "e1",
+        "reason": "setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (2,) + inhomogeneous part."
+    },
+    {
+        "year": "2022",
+        "class_name": "专利申请、授权按IPC分类分布状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2022/e/e2.html",
+        "table_title": "e2",
+        "reason": "setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (2,) + inhomogeneous part."
+    },
+    {
+        "year": "2023",
+        "class_name": "专利申请、授权按IPC分类分布状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2023/e/e1.html",
+        "table_title": "e1",
+        "reason": "setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (2,) + inhomogeneous part."
+    },
+    {
+        "year": "2023",
+        "class_name": "专利申请、授权按IPC分类分布状况",
+        "link": "https://www.cnipa.gov.cn/tjxx/jianbao/year2023/e/e2.html",
+        "table_title": "e2",
+        "reason": "setting an array element with a sequence. The requested array has an inhomogeneous shape after 1 dimensions. The detected shape was (2,) + inhomogeneous part."
+    }
+]
